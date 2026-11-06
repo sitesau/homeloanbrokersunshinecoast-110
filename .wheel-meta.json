@@ -1,0 +1,22 @@
+{
+  "wheel_id": 771,
+  "structure": "umbrella",
+  "slug": "homeloanbrokersunshinecoast-110",
+  "project": "mortgage-brokers-sunshine-coast-timeline-3705b5cbc6751fba5f6f07",
+  "parent_t1_ref": "homeloanbrokersunshinecoast-154",
+  "node_role": "feeder",
+  "money_target": "homeloanbrokersunshinecoast.com.au",
+  "primary_kw": "mortgage brokers sunshine coast timeline",
+  "intended_url": "https://sitesau.github.io/homeloanbrokersunshinecoast-110/",
+  "tier": "T2",
+  "writeback_nonce": "13e09b61ee19bd62",
+  "links": [
+    {
+      "target_url": "https://aumedia.neocities.org/mortgage-brokers-sunshine-coast-questions-to-ask-94f5ae3ab41f10/",
+      "anchor": "more on mortgage brokers sunshine coast questions to ask",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
